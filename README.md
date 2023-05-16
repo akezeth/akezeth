@@ -1,5 +1,7 @@
-<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=000000&vCenter=true&width=800&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Aklilu+Mekonnen)](https://git.io/typing-svg)</h1>
-<h3>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=30&pause=1000&color=000000&vCenter=true&width=1000&height=75&lines=I'm+a+Husband%2C+Father%2C+Developer%2C+and+Civil+Engineer!!)](https://git.io/typing-svg)</h3>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=000000&vCenter=true&width=800&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Aklilu+Mekonnen" alt="Typing SVG" /></a></h1>
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=30&pause=1000&color=000000&vCenter=true&width=1000&height=75&lines=I'm+a+Husband%2C+Father%2C+Developer%2C+and+Civil+Engineer!!" alt="Typing SVG" /></a></h3>
+
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akezeth&label=Profile%20views&color=0e75b6&style=flat" alt="akezeth" /> </p>
 
